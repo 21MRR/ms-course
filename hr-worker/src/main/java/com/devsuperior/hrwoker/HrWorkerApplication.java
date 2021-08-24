@@ -1,4 +1,4 @@
-package com.devsuperior.woker;
+package com.devsuperior.hrwoker;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
